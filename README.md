@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Melvin228
 - 👀 I’m interested in Web development technologies
-- 🌱 I’m currently learning PHP ,Python, React, Angular
+- 🌱 I’m currently learning PHP ,Python, React, Angular, C#
 - 💞️ I’m looking to collaborate on on building websites and other types of projects
 - 📫 How to reach me :
 - Email: melvingan2811@gmail.com
